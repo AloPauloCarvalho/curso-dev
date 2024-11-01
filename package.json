@@ -4,6 +4,7 @@
   "description": "Repositório para prática no curso.dev",
   "main": "index.js",
   "scripts": {
+    "vercel-build": "next build",
     "dev": "next dev"
   },
   "author": "",
